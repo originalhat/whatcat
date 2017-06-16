@@ -1,7 +1,7 @@
 module.exports = [
 	{
     breedName: 'This is Sylvester',
-    breedDesc: 'He\'s surprised at missing your cat toy throw',
+    breedDesc: 'He\'s surprised at missing your lobster toy throw',
     breedImg: 'public/images/surprised-1.png'
   },
   {
@@ -21,7 +21,7 @@ module.exports = [
   },
   {
     breedName: 'This is Franklin',
-    breedDesc: 'He\'s surprised by your gift of catnip',
+    breedDesc: 'He\'s surprised by your gift of lobsternip',
     breedImg: 'public/images/surprised-5.png'
   },
 ];

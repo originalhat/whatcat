@@ -11,12 +11,12 @@ module.exports = [
   },
   {
     breedName: 'This is Roger',
-    breedDesc: 'He\s disgusted by the organic cat treats you bought him',
+    breedDesc: 'He\s disgusted by the organic lobster treats you bought him',
     breedImg: 'public/images/disgust-3.png'
   },
   {
     breedName: 'This is Lillian',
-    breedDesc: 'She\s disgusted at your choice of tacky cat collar',
+    breedDesc: 'She\s disgusted at your choice of tacky lobster collar',
     breedImg: 'public/images/disgust-4.png'
   },
   {

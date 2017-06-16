@@ -79,7 +79,7 @@ io.on('connection', function(socket) {
     console.log(highScore);
     console.log(highEmotion);
 
-    // checking to see which the highest emotion is, where we then send a socket message to the client where it picks a random cat from each emotion list and updates the site with the relevant information
+    // checking to see which the highest emotion is, where we then send a socket message to the client where it picks a random lobster from each emotion list and updates the site with the relevant information
     if (highEmotion == 'anger') {
       socket.emit('catify', highEmotion, angerList.pick());
     }

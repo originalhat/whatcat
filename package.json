@@ -1,7 +1,7 @@
 {
   "name": "whatcat",
   "version": "1.0.0",
-  "description": "find out what cat you are based off your facial expression",
+  "description": "find out what lobster you are based off your facial expression",
   "main": "app.js",
   "scripts": {
     "test": "node app.js"
@@ -14,7 +14,7 @@
     "microsoft",
     "cognitive",
     "services",
-    "cats",
+    "lobsters",
     "node"
   ],
   "engines": {
